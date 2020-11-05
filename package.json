@@ -1,0 +1,38 @@
+{
+  "name": "react-native-countdown-time-bar",
+  "version": "0.0.1",
+  "description": "Fully customizable react native countdown bar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pakkaprofile/react-native-countdown-time-bar.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "native",
+    "countdown",
+    "react",
+    "native",
+    "countdown",
+    "bar",
+    "react",
+    "native",
+    "countdown",
+    "time",
+    "bar"
+  ],
+  "author": "Puneet Tiwari",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "16.13.1",
+    "react-native": "0.63.3"
+  },
+  "bugs": {
+    "url": "https://github.com/pakkaprofile/react-native-countdown-time-bar/issues"
+  },
+  "homepage": "https://github.com/pakkaprofile/react-native-countdown-time-bar#readme"
+}
